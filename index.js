@@ -11,11 +11,11 @@ function superbowlWin (arrayOfObjects){
     }
 }
 
-const record = [
-    { year: "2015", result: "L"},
-    { year: "2014", result: "N/A"},
-    { year: "2013", result: "L"},
-    //...
-  ]
+// const record = [
+//     { year: "2015", result: "L"},
+//     { year: "2014", result: "N/A"},
+//     { year: "2013", result: "L"},
+//     //...
+//   ]
 
-console.log(superBowlWin(record))
+// console.log(superBowlWin(record))
